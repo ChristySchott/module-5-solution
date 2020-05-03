@@ -24,7 +24,9 @@ Esse projeto foi desenvolvido utilizando HTML, CSS, Bootstrap e Java Script.
 
 Layout: 
 
-![Layout do projeto](https://github.com/ChristySchott/react-seasons/blob/master/layout0.PNG)
+![Layout do projeto](https://github.com/ChristySchott/module-5-solution/blob/master/layout1.JPG)
+![Layout do projeto](https://github.com/ChristySchott/module-5-solution/blob/master/layout2.JPG)
+![Layout do projeto](https://github.com/ChristySchott/module-5-solution/blob/master/layout3.JPG)
 
 
 ### Aprendizados:
